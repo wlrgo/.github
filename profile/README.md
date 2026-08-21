@@ -1,6 +1,6 @@
 # wlrgo
 
-**Whole Lotta Rust** — Rust-like libraries for Go.
+**Whole Lotta Rust - GOluxe version** — Rust-like libraries for Go.
 
 Ports of familiar Rust std types, as close as Go allows:
 
